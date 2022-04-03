@@ -1,2 +1,2 @@
 # codeJamQualificationRound
-Here I have my solutions for problems 1 and 3 on the 2022 CodeJam Qualification Round. 
+Here I have my solutions for some of the problems on the 2022 CodeJam Qualification Round. These include problems that are still a work in progress.
